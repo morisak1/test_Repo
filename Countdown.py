@@ -1,5 +1,5 @@
 import time
-# ASi Codes:
+# ANSI Codes:
 RESET = "\x1b[0m"
 GREEN = "\033[32m"
 BLUE_WHITE = "\x1b[44;97m"
